@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.exe
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.deps.json
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.runtimeconfig.json
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.dll
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.pdb
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.AssemblyInfo.cs
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.dll
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\refint\AsyncPro.dll
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.pdb
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.genruntimeconfig.cache
+C:\Users\ellio\source\repos\AsyncPro\AsyncPro\obj\Debug\net6.0\ref\AsyncPro.dll
